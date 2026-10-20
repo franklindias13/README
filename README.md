@@ -43,3 +43,9 @@ O Streamlit informará o endereço local para acessar o aplicativo, geralmente `
 ## Objetivo do projeto
 
 Este projeto tem como objetivo praticar a análise exploratória de dados e a criação de visualizações interativas com Python, facilitando a exploração e a compreensão de informações sobre anúncios de veículos usados.
+
+## Aplicativo publicado
+
+O dashboard está disponível online pelo Render:
+
+https://dashboard-veiculos-franklin.onrender.com
